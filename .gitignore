@@ -1,0 +1,28 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Streamlit
+.streamlit/
+logs/
+.history
+
+# Jupyter Notebook Checkpoints (if used)
+.ipynb_checkpoints/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Pip dependencies
+*.log

@@ -1,0 +1,12 @@
+streamlit
+flask
+flask-cors
+uvicorn
+openai
+langchain
+sentence-transformers
+pinecone-client
+pinecone
+reportlab
+einops
+nltk
